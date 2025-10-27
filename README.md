@@ -67,10 +67,3 @@ A dynamic talent intelligence dashboard providing:
 | `/sql/*.sql` | All SQL scripts used |
 
 ---
-
-## Run Locally
-
-### Clone Repository
-```bash
-git clone https://github.com/AngelicaNoviana/AI-Talent-Dashboard
-cd AI-Talent-Dashboard
